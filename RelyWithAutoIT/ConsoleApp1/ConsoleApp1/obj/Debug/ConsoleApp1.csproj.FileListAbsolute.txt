@@ -1,0 +1,12 @@
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\bin\Debug\AutoItX3.dll
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\bin\Debug\AutoItX3_x64.dll
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\bin\Debug\AutoItX3.Assembly.dll
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\bin\Debug\AutoItX3.Assembly.xml
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+M:\TCSD\Hardik\RelyWithAutoIT\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
